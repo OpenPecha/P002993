@@ -10,53 +10,64 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 380
+      base_file: v001.txt
     fd14798a60ed4bbbad1840e68a86c004:
       image_group_id: I3CN7722
       title: ''
       volume_number: 2
       total_pages: 334
+      base_file: v002.txt
     462469ee3b0f4f639c506614926be6e1:
       image_group_id: I3CN7723
       title: ''
       volume_number: 3
       total_pages: 310
+      base_file: v003.txt
     9c02ec1d22af4ef0b0a5343290b90c3b:
       image_group_id: I3CN7724
       title: ''
       volume_number: 4
       total_pages: 401
+      base_file: v004.txt
     4d42e748a55f4b4684e38c4af3bed6f9:
       image_group_id: I3CN7725
       title: ''
       volume_number: 5
       total_pages: 475
+      base_file: v005.txt
     e7168be0a1894e27bfbce5fb28b8b818:
       image_group_id: I3CN7726
       title: ''
       volume_number: 6
       total_pages: 258
+      base_file: v006.txt
     36554971c9d24705a5f2e266cb95feb5:
       image_group_id: I3CN7727
       title: ''
       volume_number: 7
       total_pages: 270
+      base_file: v007.txt
     9e49cfb98a874b1b99c15ddc23731dd9:
       image_group_id: I3CN7728
       title: ''
       volume_number: 8
       total_pages: 294
+      base_file: v008.txt
     13c029e99d584ebfb04466234412b259:
       image_group_id: I3CN7729
       title: ''
       volume_number: 9
       total_pages: 354
+      base_file: v009.txt
     634a56f969fb41ae9f3602d503a190fc:
       image_group_id: I3CN7730
       title: ''
       volume_number: 10
       total_pages: 322
+      base_file: v010.txt
     ff9942da1545421fa0ebadde0c1b9fb4:
       image_group_id: I3CN7731
       title: ''
       volume_number: 11
       total_pages: 346
+      base_file: v011.txt
